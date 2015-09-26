@@ -1,5 +1,6 @@
 jenkins Cookbook
 ================
+
 [![Build Status](http://img.shields.io/travis/chef-cookbooks/jenkins.svg)][travis]
 
 
