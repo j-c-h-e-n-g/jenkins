@@ -1,10 +1,10 @@
 jenkins Cookbook
 ================
 
-[![Build Status](http://img.shields.io/travis/chef-cookbooks/jenkins.svg)][travis]
+[![Build Status](https://api.travis-ci.org/j-c-h-e-n-g/jenkins.svg)][travis]
 
 
-[travis]: http://travis-ci.org/chef-cookbooks/jenkins
+[travis]: https://api.travis-ci.org/j-c-h-e-n-g/jenkins.svg
 
 Installs and configures Jenkins CI master & node slaves. Resource providers to support automation via jenkins-cli, including job create/update.
 
